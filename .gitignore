@@ -2,6 +2,7 @@ target
 
 *.class
 *.classpath
+*.dll
 *.jar
 *.project
 *.settings
